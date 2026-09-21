@@ -1,20 +1,17 @@
-# SONARA Image Policy — V4
+# SONARA Image Policy — V5
 
-SONARA product imagery is generated specifically for this storefront and stored locally.
+All primary storefront imagery is locally stored.
 
-Every product photo must look like a real premium catalog photograph:
-- clean white studio background
-- complete product visible
-- centered composition
-- realistic materials and lighting
-- soft natural shadow
-- no website screenshot
-- no prices
-- no product names
-- no ratings or stars
-- no badges
-- no buttons
-- no hearts
-- no interface elements
+## Product images
+- One product per photo.
+- Complete product visible.
+- Clean studio presentation.
+- No prices, names, stars, badges, buttons, hearts or website UI inside the photo.
 
-The website UI is always rendered outside the photograph.
+## Hero
+- Cinematic generated photography.
+- The website's headline, CTA and benefits are HTML/CSS, not baked into the hero photograph.
+
+## Logo
+- Clean transparent local wordmark/monogram.
+- No screenshot or website UI.
