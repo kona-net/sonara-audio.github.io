@@ -1,15 +1,20 @@
-# SONARA V3 Image Policy
+# SONARA Image Policy — V4
 
-Every catalog product photograph is a local asset generated specifically for SONARA Audio.
+SONARA product imagery is generated specifically for this storefront and stored locally.
 
-## Required standard
-- Clean product photography only.
-- No screenshots.
-- No website cards inside product photos.
-- No prices, product names, ratings, badges, hearts, buttons or other UI inside photos.
-- One product per image.
-- Product fully visible and centered.
-- Consistent neutral studio background.
-- Deterministic filename-to-product mapping in `data/catalog.json`.
+Every product photo must look like a real premium catalog photograph:
+- clean white studio background
+- complete product visible
+- centered composition
+- realistic materials and lighting
+- soft natural shadow
+- no website screenshot
+- no prices
+- no product names
+- no ratings or stars
+- no badges
+- no buttons
+- no hearts
+- no interface elements
 
-The generated catalog sheet is used only as the source for individually cropped product assets; the website never displays the sheet itself.
+The website UI is always rendered outside the photograph.

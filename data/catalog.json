@@ -61,7 +61,7 @@
     "price": 249.99,
     "rating": 4.7,
     "reviews": 1502,
-    "image": "airwave-pro.jpg",
+    "image": "studio-sm7.jpg",
     "badge": "Sale",
     "description": "True wireless earbuds with active noise cancellation, spatial audio and all-day comfort."
   },
@@ -72,7 +72,7 @@
     "price": 399.99,
     "rating": 4.9,
     "reviews": 241,
-    "image": "studio-sm7.jpg",
+    "image": "reference-speaker.jpg",
     "badge": "Studio",
     "description": "Dynamic studio microphone for vocals, streaming, podcasting and broadcast work."
   },
@@ -83,7 +83,7 @@
     "price": 749.99,
     "rating": 4.8,
     "reviews": 118,
-    "image": "heritage-amp.jpg",
+    "image": "sonara-home.jpg",
     "badge": "Hi-Fi",
     "description": "Integrated stereo amplifier with clean power delivery and a refined front-panel interface."
   },
@@ -94,7 +94,7 @@
     "price": 329.99,
     "rating": 4.7,
     "reviews": 94,
-    "image": "nova-monitor.jpg",
+    "image": "floorstanding-reference.jpg",
     "badge": "Creator",
     "description": "Nearfield studio monitor tuned for accurate detail and controlled low-end response."
   },
@@ -105,7 +105,7 @@
     "price": 219.99,
     "rating": 4.6,
     "reviews": 76,
-    "image": "sonara-home.jpg",
+    "image": "cinema-center.jpg",
     "badge": "Smart",
     "description": "Compact network audio hub for multi-room playback and high-resolution streaming."
   },
@@ -116,7 +116,7 @@
     "price": 899.99,
     "rating": 4.9,
     "reviews": 61,
-    "image": "reference-speaker.jpg",
+    "image": "cinema-sub.jpg",
     "badge": "Premium",
     "description": "Bookshelf loudspeaker with detailed imaging and a sophisticated cabinet profile."
   },
@@ -127,7 +127,7 @@
     "price": 499.99,
     "rating": 4.8,
     "reviews": 88,
-    "image": "cinema-sub.jpg",
+    "image": "heritage-amp.jpg",
     "badge": "Cinema",
     "description": "Powered subwoofer designed to add deep, controlled impact to movie and music systems."
   }
