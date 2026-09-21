@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "aura-x1",
+    "name": "AURA X1",
+    "category": "Headphones",
+    "price": 399.99,
+    "rating": 4.9,
+    "reviews": 320,
+    "image": "aura-x1.jpg",
+    "badge": "Best Seller",
+    "description": "Wireless noise-cancelling headphones with adaptive listening and a premium aluminum frame."
+  },
+  {
+    "slug": "pulse-go",
+    "name": "PULSE GO",
+    "category": "Wireless Speakers",
+    "price": 179.99,
+    "rating": 4.8,
+    "reviews": 287,
+    "image": "pulse-go.jpg",
+    "badge": "New",
+    "description": "Portable Bluetooth speaker engineered for detailed sound and powerful room-filling output."
+  },
+  {
+    "slug": "orbit-turntable",
+    "name": "ORBIT TT-120",
+    "category": "Turntables",
+    "price": 349.99,
+    "rating": 4.8,
+    "reviews": 164,
+    "image": "orbit-turntable.jpg",
+    "badge": "Featured",
+    "description": "Precision belt-drive turntable with a balanced tonearm and elegant walnut-inspired finish."
+  },
+  {
+    "slug": "sonic-flex",
+    "name": "SONIC FLEX",
+    "category": "Wireless Speakers",
+    "price": 149.99,
+    "rating": 4.7,
+    "reviews": 755,
+    "image": "sonic-flex.jpg",
+    "badge": "Best Seller",
+    "description": "Compact wireless speaker designed for flexible placement and effortless everyday listening."
+  },
+  {
+    "slug": "vertex-receiver",
+    "name": "VERTEX AVR-1800",
+    "category": "Amplifiers",
+    "price": 599.99,
+    "rating": 4.8,
+    "reviews": 310,
+    "image": "vertex-receiver.jpg",
+    "badge": "New",
+    "description": "7.2-channel AV receiver built for immersive home theater and high-resolution music."
+  },
+  {
+    "slug": "airwave-pro",
+    "name": "AIRWAVE PRO",
+    "category": "True Wireless",
+    "price": 249.99,
+    "rating": 4.7,
+    "reviews": 1502,
+    "image": "airwave-pro.jpg",
+    "badge": "Sale",
+    "description": "True wireless earbuds with active noise cancellation, spatial audio and all-day comfort."
+  },
+  {
+    "slug": "studio-sm7",
+    "name": "STUDIO SM7",
+    "category": "Studio Audio",
+    "price": 399.99,
+    "rating": 4.9,
+    "reviews": 241,
+    "image": "studio-sm7.jpg",
+    "badge": "Studio",
+    "description": "Dynamic studio microphone for vocals, streaming, podcasting and broadcast work."
+  },
+  {
+    "slug": "heritage-amp",
+    "name": "HERITAGE A50",
+    "category": "Hi-Fi & Amplification",
+    "price": 749.99,
+    "rating": 4.8,
+    "reviews": 118,
+    "image": "heritage-amp.jpg",
+    "badge": "Hi-Fi",
+    "description": "Integrated stereo amplifier with clean power delivery and a refined front-panel interface."
+  },
+  {
+    "slug": "nova-monitor",
+    "name": "NOVA MONITOR 5",
+    "category": "Studio Audio",
+    "price": 329.99,
+    "rating": 4.7,
+    "reviews": 94,
+    "image": "nova-monitor.jpg",
+    "badge": "Creator",
+    "description": "Nearfield studio monitor tuned for accurate detail and controlled low-end response."
+  },
+  {
+    "slug": "sonara-home",
+    "name": "SONARA HOME HUB",
+    "category": "Streaming Audio",
+    "price": 219.99,
+    "rating": 4.6,
+    "reviews": 76,
+    "image": "sonara-home.jpg",
+    "badge": "Smart",
+    "description": "Compact network audio hub for multi-room playback and high-resolution streaming."
+  },
+  {
+    "slug": "reference-speaker",
+    "name": "REFERENCE S8",
+    "category": "Hi-Fi Speakers",
+    "price": 899.99,
+    "rating": 4.9,
+    "reviews": 61,
+    "image": "reference-speaker.jpg",
+    "badge": "Premium",
+    "description": "Bookshelf loudspeaker with detailed imaging and a sophisticated cabinet profile."
+  },
+  {
+    "slug": "cinema-sub",
+    "name": "CINEMA SUB 10",
+    "category": "Home Theater",
+    "price": 499.99,
+    "rating": 4.8,
+    "reviews": 88,
+    "image": "cinema-sub.jpg",
+    "badge": "Cinema",
+    "description": "Powered subwoofer designed to add deep, controlled impact to movie and music systems."
+  }
+]

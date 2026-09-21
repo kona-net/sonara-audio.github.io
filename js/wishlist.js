@@ -1,0 +1,1 @@
+/* Wishlist persistence is handled by app.js using LocalStorage. */

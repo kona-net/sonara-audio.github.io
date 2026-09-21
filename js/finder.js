@@ -1,0 +1,1 @@
+/* Audio Finder UI hooks can be expanded without changing catalog data. */

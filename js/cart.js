@@ -1,0 +1,1 @@
+/* Cart interactions are centralized in app.js for the static storefront. */
