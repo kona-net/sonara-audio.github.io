@@ -1,17 +1,23 @@
-# SONARA Image Policy — V5
+# SONARA Image Policy — V6
 
-All primary storefront imagery is locally stored.
+All promotional photography is generated specifically for SONARA Audio and stored locally.
 
-## Product images
-- One product per photo.
-- Complete product visible.
-- Clean studio presentation.
-- No prices, names, stars, badges, buttons, hearts or website UI inside the photo.
+The three homepage promo photographs:
+- `find-your-sound.jpg`
+- `home-audio.jpg`
+- `turntables.jpg`
 
-## Hero
-- Cinematic generated photography.
-- The website's headline, CTA and benefits are HTML/CSS, not baked into the hero photograph.
+contain photography only.
 
-## Logo
-- Clean transparent local wordmark/monogram.
-- No screenshot or website UI.
+They do NOT contain:
+- headlines
+- product names
+- prices
+- buttons
+- badges
+- ratings
+- logos
+- website UI
+- duplicated website cards
+
+All promotional copy and buttons are HTML/CSS layered outside the photographs.
