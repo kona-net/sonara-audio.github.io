@@ -1,9 +1,7 @@
 # Changelog
 
-## V5
-- Replaced the hero photography with a new generated SONARA cinematic scene.
-- Removed the duplicate/non-functional hero-style image treatment from the homepage.
-- Rebuilt the header logo as a clean transparent local asset.
-- Improved hero overlay and image positioning.
-- Kept the complete ecommerce catalog and product functionality from V4.
-- Product photography remains local, deterministic and free of interface text.
+## V7
+- Rebuilt SONARA logo as a transparent PNG with no background rectangle.
+- Removed the redundant homepage editorial image block with no functional purpose.
+- Kept the V6 clean promotional photography and product catalog.
+- Kept cart, wishlist, search, filters, Audio Finder, collections, journal and support.

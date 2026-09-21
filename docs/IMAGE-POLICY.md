@@ -1,23 +1,14 @@
-# SONARA Image Policy — V6
+# SONARA Image Policy — V7
 
-All promotional photography is generated specifically for SONARA Audio and stored locally.
+## Logo
+The header logo is a local PNG with a truly transparent background.
+There is no black square, webpage screenshot, or baked-in UI.
 
-The three homepage promo photographs:
-- `find-your-sound.jpg`
-- `home-audio.jpg`
-- `turntables.jpg`
+## Product photography
+Product photos are local, deterministic, clean and contain only the product.
 
-contain photography only.
+## Promotional photography
+Promotional images contain photography only. All headings, prices, buttons and badges are HTML/CSS outside the image.
 
-They do NOT contain:
-- headlines
-- product names
-- prices
-- buttons
-- badges
-- ratings
-- logos
-- website UI
-- duplicated website cards
-
-All promotional copy and buttons are HTML/CSS layered outside the photographs.
+## Homepage
+Redundant decorative imagery is removed when it has no functional purpose.
